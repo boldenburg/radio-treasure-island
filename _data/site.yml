@@ -215,6 +215,10 @@ listen_now:
       market: "Columbia, MO"
       href: "http://www.kopn.org/"
       schedule: "Beginning Sept. 1st, at 2am CST"
+    - call_letters: WSHU
+      market: "Fairfield, CT"
+      href: "https://www.wshu.org"
+      schedule: "Beginning January 10th (2027), Sundays at 6pm EST"
     - call_letters: KUCR
       market: "Riverside, CA"
       href: "https://kucr.org"
