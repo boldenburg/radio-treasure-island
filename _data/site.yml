@@ -203,14 +203,14 @@ listen_now:
       market: "Northwest Public Broadcasting"
       href: "http://www.nwpb.org/"
       schedule: "Beginning July 31st, Fridays at TBD PST"
-    - call_letters: KURU
-      market: "Silver City, NM"
-      href: "https://kuru891.org"
-      schedule: "Beginning August 2nd, Sundays at 11am MST"
     - call_letters: Radio Fairfax
       market: "Fairfax, VA"
       href: "https://fcac.org/radio-fairfax"
       schedule: "Beginning August 9th, Sundays at 5pm EST"
+    - call_letters: KURU
+      market: "Silver City, NM"
+      href: "https://kuru891.org"
+      schedule: "Beginning August 16th, Sundays at 11am MST"
     - call_letters: KOPN
       market: "Columbia, MO"
       href: "http://www.kopn.org/"
