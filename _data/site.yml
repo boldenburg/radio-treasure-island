@@ -199,6 +199,10 @@ listen_now:
       market: "Bozeman, MT"
       href: "http://www.kglt.net/"
       schedule: "Beginning July 19th, Sundays 7am-9am MST (2 episodes in a row!)"
+    - call_letters: KPPQ
+      market: "Ventura, CA"
+      href: "http://www.capsmedia.org/radio/"
+      schedule: "Beginning July 28th, Tuesday at 10pm and Sundays at 10am PST"
     - call_letters: NWPB
       market: "Northwest Public Broadcasting"
       href: "http://www.nwpb.org/"
@@ -219,10 +223,15 @@ listen_now:
       market: "Fairfield, CT"
       href: "https://www.wshu.org"
       schedule: "Beginning January 10th (2027), Sundays at 6pm EST"
+    - call_letters: WLIW
+      market: "Southampton, NY"
+      href: "https://www.wliw.org/radio/"
+      schedule: "Saturdays at 4pm, Sundays at 11am"
     - call_letters: KUCR
       market: "Riverside, CA"
       href: "https://kucr.org"
       schedule: "TBD"
+
       
       
 
