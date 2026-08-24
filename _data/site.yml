@@ -223,6 +223,10 @@ listen_now:
       market: "Southampton, NY"
       href: "https://www.wliw.org/radio/"
       schedule: "Beginning September 5th, Saturdays at 4pm and select Sundays at 11am"
+    - call_letters: KMRE
+      market: "Bellingham, WA"
+      href: "https://kmre.org"
+      schedule: "Beginning September 5th, Sundays at 5pm PST"
     - call_letters: WRAQ
       market: "Angelica, NY"
       href: "https://wraq.org/index.html"
